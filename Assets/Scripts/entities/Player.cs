@@ -9,31 +9,24 @@ namespace entities {
 	 * Right now he has some stats, a name, a gorgeous body, his spirit and his backpack.
 	 */
 	public class Player : SexableEntity {
-	    private Spirit spirit;
-	    private Backpack backpack;
+	    private Spirit Spirit;
+        
+        public Spirit spirit {
+            get { return Spirit; }
+            set {
+                this.Spirit = value;
+                if (Spirit != null) {
+                    Spirit.victim = this;
+                }
+            }
+        }
 
-		public Player(string name) : base (name) {
+        public Player(string name) : base (name, 5) {
 	        Body.bodyParts.Add("Asshole", new Asshole(null, "Your normal virgin asshole"));
 	        Body.bodyParts.Add("LeftArm", new Hand(null, "Your left arm is currently carrying nothing", false));
 	        Body.bodyParts.Add("RightArm", new Hand(null, "Your right arm is currently carrying nothing", true));
-	        spirit = null;
-	        backpack = new Backpack(5);
+	        Spirit = null;
 	    }
-
-	    public Spirit getSpirit() {
-	        return spirit;
-	    }
-
-	    public void setSpirit(Spirit spirit) {
-	        this.spirit = spirit;
-	        if (spirit != null) {
-	            spirit.setVictim(this);
-	        }
-	    }
-
-	    public Backpack getBackpack() {
-	        return backpack;
-        }
 
         public override void fuckActive(SexableEntity passivePart, Phallic phallus = null, Fuckable orifice = null) {
             List<Phallic> phallicCandidates = new List<Phallic>();
@@ -43,7 +36,7 @@ namespace entities {
             // choose random Phallic if phallus is null
             if (phallus == null) {
                 // search for phallic body parts
-                phallicCandidates.AddRange(this.Body.findPhallicBodyParts());
+                phallicCandidates.AddRange(this.body.findPhallicBodyParts());
                 // search for phallic items
                 phallicCandidates.AddRange(this.backpack.findPhallicItems());
             }
@@ -52,6 +45,8 @@ namespace entities {
                 if (passivePart != null) {
                     // search for fuckable body Parts
                     fuckableCandidates.AddRange(passivePart.body.findFuckableBodyParts());
+                    // search for fuckable items
+                    fuckableCandidates.AddRange(passivePart.backpack.findFuckableItems());
                 }
             }
             // add participants
@@ -78,12 +73,14 @@ namespace entities {
                 if (activePart != null) {
                     // search for fuckable body Parts
                     phallicCandidates.AddRange(activePart.body.findPhallicBodyParts());
+                    // search for phallic items
+                    phallicCandidates.AddRange(activePart.backpack.findPhallicItems());
                 }
             }
             // choose random Fuckable if orifice is null
             if (orifice == null) {
                 // search for phallic body parts
-                fuckableCandidates.AddRange(this.Body.findFuckableBodyParts());
+                fuckableCandidates.AddRange(this.body.findFuckableBodyParts());
                 // search for phallic items
                 fuckableCandidates.AddRange(this.backpack.findFuckableItems());
             }

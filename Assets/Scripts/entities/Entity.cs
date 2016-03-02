@@ -1,4 +1,5 @@
 using body;
+using items;
 
 namespace entities {
 
@@ -18,6 +19,7 @@ namespace entities {
 	    protected Attribute Sensitivity;
 	    protected Attribute Lust;
 	    protected Body Body;
+        protected Backpack Backpack;
 
         public string name {
             get { return this.Name; }
@@ -52,8 +54,11 @@ namespace entities {
         public Body body {
             get { return Body; }
         }
+        public Backpack backpack {
+            get { return Backpack; }
+        }
 
-        public Entity(string name) {
+        public Entity(string name, int backpackCapacity = 1) {
 	        this.Name = name;
 	        Strength = new Attribute(0, 100);
 	        Dexterity = new Attribute(0, 100);
@@ -65,6 +70,7 @@ namespace entities {
 	        Sensitivity = new Attribute(0, 100);
 	        Lust = new Attribute(0, 100);
 	        Body = new Body();
+            this.Backpack = new Backpack(backpackCapacity);
 	    }
 
 	    public override bool Equals(System.Object obj) {
