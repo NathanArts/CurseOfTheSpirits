@@ -18,5 +18,8 @@ namespace entities {
 			get;
 			set;
 		}
-	}
+
+        bool startPenetrating(Fuckable orifice);
+        bool stopPenetrating(Fuckable orifice);
+    }
 }

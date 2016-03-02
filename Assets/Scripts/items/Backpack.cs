@@ -1,4 +1,6 @@
-using System.Collections;
+using System.Collections.Generic;
+using entities;
+
 
 namespace items {
 	
@@ -7,20 +9,25 @@ namespace items {
 	* Also per item type it can hold only as many as the item's maxItemCount.
 	*/
 	public class Backpack {
-		private ArrayList items;
-		private int capacity;
+		private List<KeyValuePair<Item, Counter>> Items;
+		private int Capacity;
+
+        public int capacity {
+            get { return this.Capacity; }
+            set { this.Capacity = value; }
+        }
+
+        public List<KeyValuePair<Item, Counter>> items {
+            get { return new List<KeyValuePair<Item, Counter>>(this.Items); }
+        }
 
 		public Backpack(int capacity) {
-		    this.capacity = capacity;
-			items = new ArrayList();
-		}
-
-		public void setCapacity(int capacity) {
-		    this.capacity = capacity;
+		    this.Capacity = capacity;
+			Items = new List<KeyValuePair<Item, Counter>>();
 		}
 
 		public bool isFull() {
-			return items.Count >= capacity;
+			return Items.Count >= Capacity;
 		}
 
 		/**
@@ -33,17 +40,17 @@ namespace items {
 		    if (this.isFull()) {
 		        return false;
 		    } else {
-		        foreach (KeyValuePair<Item, Counter> element in items) {
+		        foreach (KeyValuePair<Item, Counter> element in Items) {
 		            // check if there is already an item of this type in the backpack
-		            if (item.Equals(element.getKey())) {
+		            if (item.Equals(element.key)) {
 		                // check if the stack still has room
-		                if ((element.getKey().getMaxSlotCount()) >= element.getValue().getItemCount()) {
-		                    element.getValue().add(1);
+		                if ((element.key.maxSlotCount) > element.value.getItemCount()) {
+		                    element.value.add(1);
 		                    return true;
 		                }
 		            }
 		        }
-				items.Add(new KeyValuePair<Item, Counter>(item, new Counter(item.getMaxSlotCount())));
+				Items.Add(new KeyValuePair<Item, Counter>(item, new Counter(item.maxSlotCount)));
 		        return true;
 		    }
 		}
@@ -55,16 +62,38 @@ namespace items {
 		 * @return true, if the item was found and removed from the backpack
 		 */
 		public bool remove(Item item) {
-		    foreach (KeyValuePair<Item, Counter> element in items) {
-		        if (element.getKey().Equals(item)) {
-		            element.getValue().add(-1);
-		            if (element.getValue().isZero()) {
-		                items.Remove(element);
+		    foreach (KeyValuePair<Item, Counter> element in Items) {
+		        if (element.key.Equals(item)) {
+		            element.value.add(-1);
+		            if (element.value.isZero()) {
+		                Items.Remove(element);
 		            }
 		            return true;
 		        }
 		    }
 		    return false;
 		}
-	}
+
+
+
+        public List<Phallic> findPhallicItems() {
+            List<Phallic> phallics = new List<Phallic>();
+            foreach (KeyValuePair<Item, Counter> kvp in this.items) {
+                if (kvp.key is Phallic) {
+                    phallics.Add((Phallic) kvp.key);
+                }
+            }
+            return phallics;
+        }
+
+        public List<Fuckable> findFuckableItems() {
+            List<Fuckable> fuckables = new List<Fuckable>();
+            foreach (KeyValuePair<Item, Counter> kvp in this.items) {
+                if (kvp.key is Fuckable) {
+                    fuckables.Add((Fuckable) kvp.key);
+                }
+            }
+            return fuckables;
+        }
+    }
 }

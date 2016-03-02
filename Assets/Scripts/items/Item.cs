@@ -5,57 +5,45 @@ namespace items {
 	 * Generic Item class, doesn't do anything yet
 	 */
 	public class Item {
-	    private string name;
-	    private int value;
-	    private BodyPart wornAt;
-	    private int maxSlotCount;
+	    private string Name;
+	    private int Value;
+	    private BodyPart WornAt;
+	    private int MaxSlotCount;
 
-	    public Item(string name, int value, BodyPart wornAt, int maxSlotCount) {
-	        this.name = name;
-	        this.value = value;
-	        this.wornAt = wornAt;
-	        this.maxSlotCount = maxSlotCount;
-	    }
+        public string name {
+            get { return this.Name; }
+        }
+        public int value {
+            get { return this.Value; }
+            set { this.Value = value; }
+        }
+        public BodyPart wornAt {
+            get { return this.WornAt; }
+            set { this.WornAt = value; }
+        }
+        public int maxSlotCount {
+            get { return this.MaxSlotCount; }
+        }
 
-	    public Item(string name, int value, int maxSlotCount) : this(name, value, null, maxSlotCount) {
+	    public Item(string name, int value = 0, int maxSlotCount = 1, BodyPart wornAt = null) {
+	        this.Name = name;
+	        this.Value = value;
+	        this.WornAt = wornAt;
+	        this.MaxSlotCount = maxSlotCount;
 	    }
 
 	    public bool isInBackpack() {
-	        return wornAt == null;
-	    }
-
-	    public string getName() {
-	        return name;
-	    }
-
-	    public int getValue() {
-	        return value;
-	    }
-
-	    public void setValue(int value) {
-	        this.value = value;
-	    }
-
-	    public BodyPart getWornAt() {
-	        return wornAt;
-	    }
-
-	    public void setWornAt(BodyPart wornAt) {
-	        this.wornAt = wornAt;
+	        return WornAt == null;
 	    }
 
 	    public bool equip(BodyPart bodyPart) {
 	        if (bodyPart.isHoldingItem()) {
 	            return false;
 	        } else {
-	            bodyPart.setItem(this);
-	            this.wornAt = bodyPart;
+	            bodyPart.item = this;
+	            this.WornAt = bodyPart;
 	            return true;
 	        }
-	    }
-
-	    public int getMaxSlotCount() {
-	        return maxSlotCount;
 	    }
 
 	    public override bool Equals(System.Object obj) {
@@ -66,16 +54,16 @@ namespace items {
 
 			Item item = (Item) obj;
 
-	        if (value != item.value) return false;
-	        if (maxSlotCount != item.maxSlotCount) return false;
-	        return name.Equals(item.name);
+	        if (Value != item.Value) return false;
+	        if (MaxSlotCount != item.MaxSlotCount) return false;
+	        return Name.Equals(item.Name);
 
 	    }
 
 	    public override int GetHashCode() {
-	        int result = name.GetHashCode();
-	        result = 31 * result + value;
-	        result = 31 * result + maxSlotCount;
+	        int result = Name.GetHashCode();
+	        result = 31 * result + Value;
+	        result = 31 * result + MaxSlotCount;
 	        return result;
 	    }
 	}

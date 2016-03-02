@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using entities;
 
 namespace body {
 	/**
@@ -8,22 +9,38 @@ namespace body {
 	 * Possible features could be fuckable bodyparts, limbs, etc
 	 */
 	public class Body {
-	    private Dictionary<string, BodyPart> bodyParts;
+	    private Dictionary<string, BodyPart> BodyParts;
 
-	    public Body() {
-			bodyParts = new Dictionary<string, BodyPart>();
-	    }
+        public Dictionary<string, BodyPart> bodyParts {
+            get { return this.BodyParts; }
+        }
 
-	    public Body(Dictionary<String, BodyPart> bodyParts) {
-	        this.bodyParts = bodyParts;
-	    }
+        public Body(Dictionary<String, BodyPart> bodyParts = null) {
+            if (bodyParts == null) {
+                bodyParts = new Dictionary<string, BodyPart>();
+            } else {
+                this.BodyParts = bodyParts;
+            }
+        }
 
-	    public BodyPart getBodyPart(String name) {
-	        return bodyParts[name];
-	    }
+        public List<Phallic> findPhallicBodyParts() {
+            List<Phallic> phallics = new List<Phallic>();
+            foreach (BodyPart bodyPart in this.bodyParts.Values) {
+                if (bodyPart is PhallicBodyPart) {
+                    phallics.Add((PhallicBodyPart) bodyPart);
+                }
+            }
+            return phallics;
+        }
 
-	    public void addBodyPart(String name, BodyPart bodyPart) {
-	        bodyParts.Add(name, bodyPart);
-	    }
-	}
+        public List<Fuckable> findFuckableBodyParts() {
+            List<Fuckable> fuckables = new List<Fuckable>();
+            foreach (BodyPart bodyPart in this.bodyParts.Values) {
+                if (bodyPart is FuckableBodyPart) {
+                    fuckables.Add((FuckableBodyPart) bodyPart);
+                }
+            }
+            return fuckables;
+        }
+    }
 }
