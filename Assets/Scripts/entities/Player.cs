@@ -13,9 +13,9 @@ namespace entities {
 	    private Backpack backpack;
 
 		public Player(string name) : base (name) {
-	        body.bodyParts.Add("Asshole", new Asshole(null, "Your normal virgin asshole"));
-	        body.bodyParts.Add("LeftArm", new Hand(null, "Your left arm is currently carrying nothing", false));
-	        body.bodyParts.Add("RightArm", new Hand(null, "Your right arm is currently carrying nothing", true));
+	        Body.bodyParts.Add("Asshole", new Asshole(null, "Your normal virgin asshole"));
+	        Body.bodyParts.Add("LeftArm", new Hand(null, "Your left arm is currently carrying nothing", false));
+	        Body.bodyParts.Add("RightArm", new Hand(null, "Your right arm is currently carrying nothing", true));
 	        spirit = null;
 	        backpack = new Backpack(5);
 	    }
@@ -43,7 +43,7 @@ namespace entities {
             // choose random Phallic if phallus is null
             if (phallus == null) {
                 // search for phallic body parts
-                phallicCandidates.AddRange(this.body.findPhallicBodyParts());
+                phallicCandidates.AddRange(this.Body.findPhallicBodyParts());
                 // search for phallic items
                 phallicCandidates.AddRange(this.backpack.findPhallicItems());
             }
@@ -51,7 +51,7 @@ namespace entities {
             if (orifice == null) {
                 if (passivePart != null) {
                     // search for fuckable body Parts
-                    fuckableCandidates.AddRange(passivePart.getBody().findFuckableBodyParts());
+                    fuckableCandidates.AddRange(passivePart.body.findFuckableBodyParts());
                 }
             }
             // add participants
@@ -77,13 +77,13 @@ namespace entities {
             if (phallus == null) {
                 if (activePart != null) {
                     // search for fuckable body Parts
-                    phallicCandidates.AddRange(activePart.getBody().findPhallicBodyParts());
+                    phallicCandidates.AddRange(activePart.body.findPhallicBodyParts());
                 }
             }
             // choose random Fuckable if orifice is null
             if (orifice == null) {
                 // search for phallic body parts
-                fuckableCandidates.AddRange(this.body.findFuckableBodyParts());
+                fuckableCandidates.AddRange(this.Body.findFuckableBodyParts());
                 // search for phallic items
                 fuckableCandidates.AddRange(this.backpack.findFuckableItems());
             }

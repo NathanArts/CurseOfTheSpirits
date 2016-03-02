@@ -7,74 +7,74 @@ namespace entities {
 	 * Includes minimum stats set, a body and a name
 	 */
 	public abstract class Entity {
-	    protected string name;
-	    protected Attribute strength;
-	    protected Attribute dexterity;
-	    protected Attribute endurance;
-	    protected Attribute intelligence;
-	    protected Attribute will;
-	    protected Attribute charisma;
-	    protected Attribute libido;
-	    protected Attribute sensitivity;
-	    protected Attribute lust;
-	    protected Body body;
+	    protected string Name;
+	    protected Attribute Strength;
+	    protected Attribute Dexterity;
+	    protected Attribute Endurance;
+	    protected Attribute Intelligence;
+	    protected Attribute Will;
+	    protected Attribute Charisma;
+	    protected Attribute Libido;
+	    protected Attribute Sensitivity;
+	    protected Attribute Lust;
+	    protected Body Body;
 
 	    public Entity(string name) {
-	        this.name = name;
-	        strength = new Attribute(0, 100);
-	        dexterity = new Attribute(0, 100);
-	        endurance = new Attribute(0, 100);
-	        intelligence = new Attribute(0, 100);
-	        will = new Attribute(0, 100);
-	        charisma = new Attribute(0, 100);
-	        libido = new Attribute(0, 100);
-	        sensitivity = new Attribute(0, 100);
-	        lust = new Attribute(0, 100);
-	        body = new Body();
+	        this.Name = name;
+	        Strength = new Attribute(0, 100);
+	        Dexterity = new Attribute(0, 100);
+	        Endurance = new Attribute(0, 100);
+	        Intelligence = new Attribute(0, 100);
+	        Will = new Attribute(0, 100);
+	        Charisma = new Attribute(0, 100);
+	        Libido = new Attribute(0, 100);
+	        Sensitivity = new Attribute(0, 100);
+	        Lust = new Attribute(0, 100);
+	        Body = new Body();
 	    }
 
-	    public string getName() {
-	        return name;
+	    public string name {
+	        get { return this.Name; }
 	    }
 
-	    public Attribute getStrength() {
-	        return strength;
+	    public Attribute strength {
+	        get { return Strength; }
 	    }
 
-	    public Attribute getDexterity() {
-	        return dexterity;
+	    public Attribute dexterity {
+	        get { return Dexterity; }
 	    }
 
-	    public Attribute getEndurance() {
-	        return endurance;
+	    public Attribute endurance {
+	        get { return Endurance; }
 	    }
 
-	    public Attribute getIntelligence() {
-	        return intelligence;
+	    public Attribute intelligence {
+	        get { return Intelligence; }
 	    }
 
-	    public Attribute getWill() {
-	        return will;
+	    public Attribute will {
+	        get { return Will; }
 	    }
 
-	    public Attribute getCharisma() {
-	        return charisma;
+	    public Attribute charisma {
+	        get { return Charisma; }
 	    }
 
-	    public Attribute getLibido() {
-	        return libido;
+	    public Attribute libido {
+	        get { return Libido; }
 	    }
 
-	    public Attribute getSensitivity() {
-	        return sensitivity;
+	    public Attribute sensitivity {
+	        get { return Sensitivity; }
 	    }
 
-	    public Attribute getLust() {
-	        return lust;
+	    public Attribute lust {
+	        get { return Lust; }
 	    }
 
-	    public Body getBody() {
-	        return body;
+	    public Body body {
+	        get { return Body; }
 	    }
 
 	    public override bool Equals(System.Object obj) {
@@ -83,12 +83,12 @@ namespace entities {
 
 	        Entity entity = (Entity) obj;
 
-	        return name.Equals(entity.name);
+	        return Name.Equals(entity.Name);
 
 	    }
 
 	    public override int GetHashCode() {
-	        return name.GetHashCode();
+	        return Name.GetHashCode();
 	    }
 	}
 }
