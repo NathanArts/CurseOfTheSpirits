@@ -6,11 +6,15 @@ namespace body {
 	 * Abstrac class for all body Parts that are fuckable
 	 */
 	public abstract class FuckableBodyPart : BodyPart, Fuckable {
+        private string Name;
         private int Sensivity;
         private int Capacity;
         private int Wettness;
         private int OccupyCount;
 
+        public string name {
+            get { return Name; }
+        }
         public int sensivity {
             get { return Sensivity; }
             set { this.Sensivity = value >= 0 ? value : 0; }
@@ -62,6 +66,21 @@ namespace body {
 
 	    public bool isOccupied() {
 	        return OccupyCount >= Capacity;
-	    }
-	}
+        }
+
+        public override bool Equals(object obj) {
+            if (this == obj)
+                return true;
+            if (!(obj is FuckableBodyPart))
+                return false;
+
+            FuckableBodyPart orifice = (FuckableBodyPart) obj;
+
+            return name.Equals(orifice.name);
+        }
+
+        public override int GetHashCode() {
+            return name.GetHashCode();
+        }
+    }
 }
