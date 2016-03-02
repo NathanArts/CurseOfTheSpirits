@@ -3,28 +3,21 @@ namespace items {
 	 * Generic key value pair for the backpack
 	 */
 	public class KeyValuePair<K, V> {
-		private K key;
-		private V value;
+		private K Key;
+		private V Value;
 
-		public KeyValuePair(K key, V value) {
-			this.key = key;
-			this.value = value;
-		}
+        public K key {
+            get { return key; }
+            set { this.Key = value; }
+        }
+        public V value {
+            get { return Value; }
+            set { this.Value = value; }
+        }
 
-		public K getKey() {
-			return key;
-		}
-
-		public void setKey(K key) {
-			this.key = key;
-		}
-
-		public V getValue() {
-			return value;
-		}
-
-		public void setValue(V value) {
-			this.value = value;
+        public KeyValuePair(K key, V value) {
+			this.Key = key;
+			this.Value = value;
 		}
 	}
 }

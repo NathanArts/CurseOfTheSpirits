@@ -6,29 +6,28 @@ namespace body {
 	 * Le cute hips :3
 	 */
 	public class Hips : BodyPart {
-	    private int size;
+	    private int Size;
 
-		public Hips(Item item, string description, int size) : base(item, description) {
-	        this.size = size;
+        public int size {
+            get { return Size; }
+            set {
+                if (value < 0) {
+                    this.Size = 0;
+                } else {
+                    this.Size = value;
+                }
+            }
+        }
+
+        public Hips(Item item, string description, int size) : base(item, description) {
+	        this.Size = size;
 	    }
 
-	    public int getSize() {
-	        return size;
-	    }
-
-	    private void setSize(int size) {
-	        if (size < 0) {
-	            this.size = 0;
-	        } else {
-	            this.size = size;
-	        }
-	    }
-
-	    public void increaseSize(int amount) {
+        public void increaseSize(int amount) {
 	        if (amount < 0) {
 	            throw new ArgumentException("increase with negative amount");
 	        } else {
-	            setSize(this.size + amount);
+	            this.size += amount;
 	        }
 	    }
 
@@ -36,7 +35,7 @@ namespace body {
 	        if (amount < 0) {
 	            throw new ArgumentException("decrease with negative amount");
 	        } else {
-	            setSize(this.size - amount);
+	            this.size -= amount;
 	        }
 	    }
 	}

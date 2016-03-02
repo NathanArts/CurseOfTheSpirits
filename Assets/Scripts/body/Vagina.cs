@@ -4,11 +4,8 @@ namespace body {
 	/**
 	 * Vagina, duh
 	 */
-	public class Vagina : Fuckable {
-		public Vagina(Item item, string description) : base(item, description) {
-	    }
-
-	    public Vagina(Item item, string description, int capacity, int sensivity, int wettness) 
+	public class Vagina : FuckableBodyPart {
+	    public Vagina(Item item, string description, int capacity = 1, int sensivity = 1, int wettness = 1) 
 			: base(item, description, capacity, sensivity, wettness) {
 	    }
 	}

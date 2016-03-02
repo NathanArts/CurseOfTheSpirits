@@ -6,45 +6,43 @@ namespace body {
 	 * The players breasts
 	 */
 	public class Breast : BodyPart {
-	    private int quantity;
+	    private int Quantity;
 	    /**
 	     * 0 = flat, 1 = AA, 2 = A, 3 = B, etc
 	     */
-	    private int size;
-		public Breast(Item item, string description, int size) : base(item, description) {
-	        this.size = size;
-	        this.quantity = 2;
-	    }
+	    private int Size;
 
-	    public int getQuantity() {
-	        return quantity;
-	    }
+        public int quantity {
+            get { return Quantity; }
+            set {
+                if (value < 0) {
+                    this.Quantity = 0;
+                } else {
+                    this.Quantity = value;
+                }
+            }
+        }
+        public int size {
+            get { return Size; }
+            set {
+                if (value < 0) {
+                    this.Size = 0;
+                } else {
+                    this.Size = value;
+                }
+            }
+        }
 
-	    private void setQuantity(int quantity) {
-	        if (quantity < 0) {
-	            this.quantity = 0;
-	        } else {
-	            this.quantity = quantity;
-	        }
-	    }
-
-	    public int getSize() {
-	        return size;
-	    }
-
-	    private void setSize(int size) {
-	        if (size < 0) {
-	            this.size = 0;
-	        } else {
-	            this.size = size;
-	        }
+        public Breast(Item item, string description, int size) : base(item, description) {
+	        this.Size = size;
+	        this.Quantity = 2;
 	    }
 
 	    public void increaseSize(int amount) {
 	        if (amount < 0) {
 	            throw new ArgumentException("increase with negative amount");
 	        } else {
-	            setSize(this.size + amount);
+	            this.size += amount;
 	        }
 	    }
 
@@ -52,7 +50,7 @@ namespace body {
 	        if (amount < 0) {
 	            throw new ArgumentException("decrease with negative amount");
 	        } else {
-	            setSize(this.size - amount);
+	            this.size -= amount;
 	        }
 	    }
 
@@ -60,7 +58,7 @@ namespace body {
 	        if (amount < 0) {
 	            throw new ArgumentException("increase with negative amount");
 	        } else {
-	            setQuantity(this.quantity + amount);
+	            this.quantity += amount;
 	        }
 	    }
 
@@ -68,7 +66,7 @@ namespace body {
 	        if (amount < 0) {
 	            throw new ArgumentException("decrease with negative amount");
 	        } else {
-	            setQuantity(this.quantity - amount);
+	            this.quantity -= amount;
 	        }
 	    }
 	}

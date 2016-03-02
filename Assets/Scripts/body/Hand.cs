@@ -6,10 +6,14 @@ namespace body {
 	 * An arm can hold something and can be a main arm or not.
 	 */
 	public class Hand : BodyPart {
-	    private bool mainArm;
+	    private bool MainArm;
 
-		public Hand(Item item, string description, bool mainArm) : base(item, description) {
-	        this.mainArm = mainArm;
+        public bool mainArm {
+            get { return MainArm; }
+        }
+
+		public Hand(Item item, string description, bool mainArm = false) : base(item, description) {
+	        this.MainArm = mainArm;
 	    }
 	}
 }

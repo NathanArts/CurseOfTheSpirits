@@ -1,4 +1,5 @@
 using items;
+using body;
 
 namespace entities {
 	/**
@@ -7,9 +8,6 @@ namespace entities {
 	public abstract class Monster : Entity {
 	    private Item weapon;
 
-		public Monster(string name) : base(name) {}
-
-	    public abstract void fuck(Player victim);
-	    public abstract void getFucked(Player victim);
-	}
+		public Monster(string name, Item weapon ) : base(name) { }
+    }
 }

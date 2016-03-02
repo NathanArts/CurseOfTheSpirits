@@ -6,38 +6,37 @@ namespace body {
 	 * The players legs
 	 */
 	public class Legs : BodyPart {
-	    private int quantity;
+	    private int Quantity;
 
-		public Legs(Item item, String description, int quantity) : base(item, description) {
-	        this.quantity = quantity;
-	    }
+        public int quantity {
+            get { return Quantity; }
+            set {
+                if (value < 0) {
+                    this.Quantity = 0;
+                } else {
+                    this.Quantity = value;
+                }
+            }
+        }
 
-	    public int getQuantity() {
-	        return quantity;
-	    }
+        public Legs(Item item, String description, int quantity) : base(item, description) {
+	        this.Quantity = quantity;
+        }
 
-	    private void setQuantity(int quantity) {
-	        if (quantity < 0) {
-	            this.quantity = 0;
-	        } else {
-	            this.quantity = quantity;
-	        }
-	    }
+        public void increaseQuantity(int amount) {
+            if (amount < 0) {
+                throw new ArgumentException("increase with negative amount");
+            } else {
+                this.quantity += amount;
+            }
+        }
 
-	    public void increaseQuantity(int amount) {
-	        if (amount < 0) {
-	            throw new ArgumentException("increase with negative amount");
-	        } else {
-	            setQuantity(this.quantity + amount);
-	        }
-	    }
-
-	    public void decreaseQuantity(int amount) {
-	        if (amount < 0) {
-	            throw new ArgumentException("decrease with negative amount");
-	        } else {
-	            setQuantity(this.quantity - amount);
-	        }
-	    }
-	}
+        public void decreaseQuantity(int amount) {
+            if (amount < 0) {
+                throw new ArgumentException("decrease with negative amount");
+            } else {
+                this.quantity -= amount;
+            }
+        }
+    }
 }
