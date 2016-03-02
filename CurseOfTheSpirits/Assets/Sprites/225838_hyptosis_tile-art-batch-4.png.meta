@@ -1,0 +1,7155 @@
+fileFormatVersion: 2
+guid: 59e6156951c368846a24a5f018682b28
+timeCreated: 1456838812
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 225838_hyptosis_tile-art-batch-4_0
+    21300002: 225838_hyptosis_tile-art-batch-4_1
+    21300004: 225838_hyptosis_tile-art-batch-4_2
+    21300006: 225838_hyptosis_tile-art-batch-4_3
+    21300008: 225838_hyptosis_tile-art-batch-4_4
+    21300010: 225838_hyptosis_tile-art-batch-4_5
+    21300012: 225838_hyptosis_tile-art-batch-4_6
+    21300014: 225838_hyptosis_tile-art-batch-4_7
+    21300016: 225838_hyptosis_tile-art-batch-4_8
+    21300018: 225838_hyptosis_tile-art-batch-4_9
+    21300020: 225838_hyptosis_tile-art-batch-4_10
+    21300022: 225838_hyptosis_tile-art-batch-4_11
+    21300024: 225838_hyptosis_tile-art-batch-4_12
+    21300026: 225838_hyptosis_tile-art-batch-4_13
+    21300028: 225838_hyptosis_tile-art-batch-4_14
+    21300030: 225838_hyptosis_tile-art-batch-4_15
+    21300032: 225838_hyptosis_tile-art-batch-4_16
+    21300034: 225838_hyptosis_tile-art-batch-4_17
+    21300036: 225838_hyptosis_tile-art-batch-4_18
+    21300038: 225838_hyptosis_tile-art-batch-4_19
+    21300040: 225838_hyptosis_tile-art-batch-4_20
+    21300042: 225838_hyptosis_tile-art-batch-4_21
+    21300044: 225838_hyptosis_tile-art-batch-4_22
+    21300046: 225838_hyptosis_tile-art-batch-4_23
+    21300048: 225838_hyptosis_tile-art-batch-4_24
+    21300050: 225838_hyptosis_tile-art-batch-4_25
+    21300052: 225838_hyptosis_tile-art-batch-4_26
+    21300054: 225838_hyptosis_tile-art-batch-4_27
+    21300056: 225838_hyptosis_tile-art-batch-4_28
+    21300058: 225838_hyptosis_tile-art-batch-4_29
+    21300060: 225838_hyptosis_tile-art-batch-4_30
+    21300062: 225838_hyptosis_tile-art-batch-4_31
+    21300064: 225838_hyptosis_tile-art-batch-4_32
+    21300066: 225838_hyptosis_tile-art-batch-4_33
+    21300068: 225838_hyptosis_tile-art-batch-4_34
+    21300070: 225838_hyptosis_tile-art-batch-4_35
+    21300072: 225838_hyptosis_tile-art-batch-4_36
+    21300074: 225838_hyptosis_tile-art-batch-4_37
+    21300076: 225838_hyptosis_tile-art-batch-4_38
+    21300078: 225838_hyptosis_tile-art-batch-4_39
+    21300080: 225838_hyptosis_tile-art-batch-4_40
+    21300082: 225838_hyptosis_tile-art-batch-4_41
+    21300084: 225838_hyptosis_tile-art-batch-4_42
+    21300086: 225838_hyptosis_tile-art-batch-4_43
+    21300088: 225838_hyptosis_tile-art-batch-4_44
+    21300090: 225838_hyptosis_tile-art-batch-4_45
+    21300092: 225838_hyptosis_tile-art-batch-4_46
+    21300094: 225838_hyptosis_tile-art-batch-4_47
+    21300096: 225838_hyptosis_tile-art-batch-4_48
+    21300098: 225838_hyptosis_tile-art-batch-4_49
+    21300100: 225838_hyptosis_tile-art-batch-4_50
+    21300102: 225838_hyptosis_tile-art-batch-4_51
+    21300104: 225838_hyptosis_tile-art-batch-4_52
+    21300106: 225838_hyptosis_tile-art-batch-4_53
+    21300108: 225838_hyptosis_tile-art-batch-4_54
+    21300110: 225838_hyptosis_tile-art-batch-4_55
+    21300112: 225838_hyptosis_tile-art-batch-4_56
+    21300114: 225838_hyptosis_tile-art-batch-4_57
+    21300116: 225838_hyptosis_tile-art-batch-4_58
+    21300118: 225838_hyptosis_tile-art-batch-4_59
+    21300120: 225838_hyptosis_tile-art-batch-4_60
+    21300122: 225838_hyptosis_tile-art-batch-4_61
+    21300124: 225838_hyptosis_tile-art-batch-4_62
+    21300126: 225838_hyptosis_tile-art-batch-4_63
+    21300128: 225838_hyptosis_tile-art-batch-4_64
+    21300130: 225838_hyptosis_tile-art-batch-4_65
+    21300132: 225838_hyptosis_tile-art-batch-4_66
+    21300134: 225838_hyptosis_tile-art-batch-4_67
+    21300136: 225838_hyptosis_tile-art-batch-4_68
+    21300138: 225838_hyptosis_tile-art-batch-4_69
+    21300140: 225838_hyptosis_tile-art-batch-4_70
+    21300142: 225838_hyptosis_tile-art-batch-4_71
+    21300144: 225838_hyptosis_tile-art-batch-4_72
+    21300146: 225838_hyptosis_tile-art-batch-4_73
+    21300148: 225838_hyptosis_tile-art-batch-4_74
+    21300150: 225838_hyptosis_tile-art-batch-4_75
+    21300152: 225838_hyptosis_tile-art-batch-4_76
+    21300154: 225838_hyptosis_tile-art-batch-4_77
+    21300156: 225838_hyptosis_tile-art-batch-4_78
+    21300158: 225838_hyptosis_tile-art-batch-4_79
+    21300160: 225838_hyptosis_tile-art-batch-4_80
+    21300162: 225838_hyptosis_tile-art-batch-4_81
+    21300164: 225838_hyptosis_tile-art-batch-4_82
+    21300166: 225838_hyptosis_tile-art-batch-4_83
+    21300168: 225838_hyptosis_tile-art-batch-4_84
+    21300170: 225838_hyptosis_tile-art-batch-4_85
+    21300172: 225838_hyptosis_tile-art-batch-4_86
+    21300174: 225838_hyptosis_tile-art-batch-4_87
+    21300176: 225838_hyptosis_tile-art-batch-4_88
+    21300178: 225838_hyptosis_tile-art-batch-4_89
+    21300180: 225838_hyptosis_tile-art-batch-4_90
+    21300182: 225838_hyptosis_tile-art-batch-4_91
+    21300184: 225838_hyptosis_tile-art-batch-4_92
+    21300186: 225838_hyptosis_tile-art-batch-4_93
+    21300188: 225838_hyptosis_tile-art-batch-4_94
+    21300190: 225838_hyptosis_tile-art-batch-4_95
+    21300192: 225838_hyptosis_tile-art-batch-4_96
+    21300194: 225838_hyptosis_tile-art-batch-4_97
+    21300196: 225838_hyptosis_tile-art-batch-4_98
+    21300198: 225838_hyptosis_tile-art-batch-4_99
+    21300200: 225838_hyptosis_tile-art-batch-4_100
+    21300202: 225838_hyptosis_tile-art-batch-4_101
+    21300204: 225838_hyptosis_tile-art-batch-4_102
+    21300206: 225838_hyptosis_tile-art-batch-4_103
+    21300208: 225838_hyptosis_tile-art-batch-4_104
+    21300210: 225838_hyptosis_tile-art-batch-4_105
+    21300212: 225838_hyptosis_tile-art-batch-4_106
+    21300214: 225838_hyptosis_tile-art-batch-4_107
+    21300216: 225838_hyptosis_tile-art-batch-4_108
+    21300218: 225838_hyptosis_tile-art-batch-4_109
+    21300220: 225838_hyptosis_tile-art-batch-4_110
+    21300222: 225838_hyptosis_tile-art-batch-4_111
+    21300224: 225838_hyptosis_tile-art-batch-4_112
+    21300226: 225838_hyptosis_tile-art-batch-4_113
+    21300228: 225838_hyptosis_tile-art-batch-4_114
+    21300230: 225838_hyptosis_tile-art-batch-4_115
+    21300232: 225838_hyptosis_tile-art-batch-4_116
+    21300234: 225838_hyptosis_tile-art-batch-4_117
+    21300236: 225838_hyptosis_tile-art-batch-4_118
+    21300238: 225838_hyptosis_tile-art-batch-4_119
+    21300240: 225838_hyptosis_tile-art-batch-4_120
+    21300242: 225838_hyptosis_tile-art-batch-4_121
+    21300244: 225838_hyptosis_tile-art-batch-4_122
+    21300246: 225838_hyptosis_tile-art-batch-4_123
+    21300248: 225838_hyptosis_tile-art-batch-4_124
+    21300250: 225838_hyptosis_tile-art-batch-4_125
+    21300252: 225838_hyptosis_tile-art-batch-4_126
+    21300254: 225838_hyptosis_tile-art-batch-4_127
+    21300256: 225838_hyptosis_tile-art-batch-4_128
+    21300258: 225838_hyptosis_tile-art-batch-4_129
+    21300260: 225838_hyptosis_tile-art-batch-4_130
+    21300262: 225838_hyptosis_tile-art-batch-4_131
+    21300264: 225838_hyptosis_tile-art-batch-4_132
+    21300266: 225838_hyptosis_tile-art-batch-4_133
+    21300268: 225838_hyptosis_tile-art-batch-4_134
+    21300270: 225838_hyptosis_tile-art-batch-4_135
+    21300272: 225838_hyptosis_tile-art-batch-4_136
+    21300274: 225838_hyptosis_tile-art-batch-4_137
+    21300276: 225838_hyptosis_tile-art-batch-4_138
+    21300278: 225838_hyptosis_tile-art-batch-4_139
+    21300280: 225838_hyptosis_tile-art-batch-4_140
+    21300282: 225838_hyptosis_tile-art-batch-4_141
+    21300284: 225838_hyptosis_tile-art-batch-4_142
+    21300286: 225838_hyptosis_tile-art-batch-4_143
+    21300288: 225838_hyptosis_tile-art-batch-4_144
+    21300290: 225838_hyptosis_tile-art-batch-4_145
+    21300292: 225838_hyptosis_tile-art-batch-4_146
+    21300294: 225838_hyptosis_tile-art-batch-4_147
+    21300296: 225838_hyptosis_tile-art-batch-4_148
+    21300298: 225838_hyptosis_tile-art-batch-4_149
+    21300300: 225838_hyptosis_tile-art-batch-4_150
+    21300302: 225838_hyptosis_tile-art-batch-4_151
+    21300304: 225838_hyptosis_tile-art-batch-4_152
+    21300306: 225838_hyptosis_tile-art-batch-4_153
+    21300308: 225838_hyptosis_tile-art-batch-4_154
+    21300310: 225838_hyptosis_tile-art-batch-4_155
+    21300312: 225838_hyptosis_tile-art-batch-4_156
+    21300314: 225838_hyptosis_tile-art-batch-4_157
+    21300316: 225838_hyptosis_tile-art-batch-4_158
+    21300318: 225838_hyptosis_tile-art-batch-4_159
+    21300320: 225838_hyptosis_tile-art-batch-4_160
+    21300322: 225838_hyptosis_tile-art-batch-4_161
+    21300324: 225838_hyptosis_tile-art-batch-4_162
+    21300326: 225838_hyptosis_tile-art-batch-4_163
+    21300328: 225838_hyptosis_tile-art-batch-4_164
+    21300330: 225838_hyptosis_tile-art-batch-4_165
+    21300332: 225838_hyptosis_tile-art-batch-4_166
+    21300334: 225838_hyptosis_tile-art-batch-4_167
+    21300336: 225838_hyptosis_tile-art-batch-4_168
+    21300338: 225838_hyptosis_tile-art-batch-4_169
+    21300340: 225838_hyptosis_tile-art-batch-4_170
+    21300342: 225838_hyptosis_tile-art-batch-4_171
+    21300344: 225838_hyptosis_tile-art-batch-4_172
+    21300346: 225838_hyptosis_tile-art-batch-4_173
+    21300348: 225838_hyptosis_tile-art-batch-4_174
+    21300350: 225838_hyptosis_tile-art-batch-4_175
+    21300352: 225838_hyptosis_tile-art-batch-4_176
+    21300354: 225838_hyptosis_tile-art-batch-4_177
+    21300356: 225838_hyptosis_tile-art-batch-4_178
+    21300358: 225838_hyptosis_tile-art-batch-4_179
+    21300360: 225838_hyptosis_tile-art-batch-4_180
+    21300362: 225838_hyptosis_tile-art-batch-4_181
+    21300364: 225838_hyptosis_tile-art-batch-4_182
+    21300366: 225838_hyptosis_tile-art-batch-4_183
+    21300368: 225838_hyptosis_tile-art-batch-4_184
+    21300370: 225838_hyptosis_tile-art-batch-4_185
+    21300372: 225838_hyptosis_tile-art-batch-4_186
+    21300374: 225838_hyptosis_tile-art-batch-4_187
+    21300376: 225838_hyptosis_tile-art-batch-4_188
+    21300378: 225838_hyptosis_tile-art-batch-4_189
+    21300380: 225838_hyptosis_tile-art-batch-4_190
+    21300382: 225838_hyptosis_tile-art-batch-4_191
+    21300384: 225838_hyptosis_tile-art-batch-4_192
+    21300386: 225838_hyptosis_tile-art-batch-4_193
+    21300388: 225838_hyptosis_tile-art-batch-4_194
+    21300390: 225838_hyptosis_tile-art-batch-4_195
+    21300392: 225838_hyptosis_tile-art-batch-4_196
+    21300394: 225838_hyptosis_tile-art-batch-4_197
+    21300396: 225838_hyptosis_tile-art-batch-4_198
+    21300398: 225838_hyptosis_tile-art-batch-4_199
+    21300400: 225838_hyptosis_tile-art-batch-4_200
+    21300402: 225838_hyptosis_tile-art-batch-4_201
+    21300404: 225838_hyptosis_tile-art-batch-4_202
+    21300406: 225838_hyptosis_tile-art-batch-4_203
+    21300408: 225838_hyptosis_tile-art-batch-4_204
+    21300410: 225838_hyptosis_tile-art-batch-4_205
+    21300412: 225838_hyptosis_tile-art-batch-4_206
+    21300414: 225838_hyptosis_tile-art-batch-4_207
+    21300416: 225838_hyptosis_tile-art-batch-4_208
+    21300418: 225838_hyptosis_tile-art-batch-4_209
+    21300420: 225838_hyptosis_tile-art-batch-4_210
+    21300422: 225838_hyptosis_tile-art-batch-4_211
+    21300424: 225838_hyptosis_tile-art-batch-4_212
+    21300426: 225838_hyptosis_tile-art-batch-4_213
+    21300428: 225838_hyptosis_tile-art-batch-4_214
+    21300430: 225838_hyptosis_tile-art-batch-4_215
+    21300432: 225838_hyptosis_tile-art-batch-4_216
+    21300434: 225838_hyptosis_tile-art-batch-4_217
+    21300436: 225838_hyptosis_tile-art-batch-4_218
+    21300438: 225838_hyptosis_tile-art-batch-4_219
+    21300440: 225838_hyptosis_tile-art-batch-4_220
+    21300442: 225838_hyptosis_tile-art-batch-4_221
+    21300444: 225838_hyptosis_tile-art-batch-4_222
+    21300446: 225838_hyptosis_tile-art-batch-4_223
+    21300448: 225838_hyptosis_tile-art-batch-4_224
+    21300450: 225838_hyptosis_tile-art-batch-4_225
+    21300452: 225838_hyptosis_tile-art-batch-4_226
+    21300454: 225838_hyptosis_tile-art-batch-4_227
+    21300456: 225838_hyptosis_tile-art-batch-4_228
+    21300458: 225838_hyptosis_tile-art-batch-4_229
+    21300460: 225838_hyptosis_tile-art-batch-4_230
+    21300462: 225838_hyptosis_tile-art-batch-4_231
+    21300464: 225838_hyptosis_tile-art-batch-4_232
+    21300466: 225838_hyptosis_tile-art-batch-4_233
+    21300468: 225838_hyptosis_tile-art-batch-4_234
+    21300470: 225838_hyptosis_tile-art-batch-4_235
+    21300472: 225838_hyptosis_tile-art-batch-4_236
+    21300474: 225838_hyptosis_tile-art-batch-4_237
+    21300476: 225838_hyptosis_tile-art-batch-4_238
+    21300478: 225838_hyptosis_tile-art-batch-4_239
+    21300480: 225838_hyptosis_tile-art-batch-4_240
+    21300482: 225838_hyptosis_tile-art-batch-4_241
+    21300484: 225838_hyptosis_tile-art-batch-4_242
+    21300486: 225838_hyptosis_tile-art-batch-4_243
+    21300488: 225838_hyptosis_tile-art-batch-4_244
+    21300490: 225838_hyptosis_tile-art-batch-4_245
+    21300492: 225838_hyptosis_tile-art-batch-4_246
+    21300494: 225838_hyptosis_tile-art-batch-4_247
+    21300496: 225838_hyptosis_tile-art-batch-4_248
+    21300498: 225838_hyptosis_tile-art-batch-4_249
+    21300500: 225838_hyptosis_tile-art-batch-4_250
+    21300502: 225838_hyptosis_tile-art-batch-4_251
+    21300504: 225838_hyptosis_tile-art-batch-4_252
+    21300506: 225838_hyptosis_tile-art-batch-4_253
+    21300508: 225838_hyptosis_tile-art-batch-4_254
+    21300510: 225838_hyptosis_tile-art-batch-4_255
+    21300512: 225838_hyptosis_tile-art-batch-4_256
+    21300514: 225838_hyptosis_tile-art-batch-4_257
+    21300516: 225838_hyptosis_tile-art-batch-4_258
+    21300518: 225838_hyptosis_tile-art-batch-4_259
+    21300520: 225838_hyptosis_tile-art-batch-4_260
+    21300522: 225838_hyptosis_tile-art-batch-4_261
+    21300524: 225838_hyptosis_tile-art-batch-4_262
+    21300526: 225838_hyptosis_tile-art-batch-4_263
+    21300528: 225838_hyptosis_tile-art-batch-4_264
+    21300530: 225838_hyptosis_tile-art-batch-4_265
+    21300532: 225838_hyptosis_tile-art-batch-4_266
+    21300534: 225838_hyptosis_tile-art-batch-4_267
+    21300536: 225838_hyptosis_tile-art-batch-4_268
+    21300538: 225838_hyptosis_tile-art-batch-4_269
+    21300540: 225838_hyptosis_tile-art-batch-4_270
+    21300542: 225838_hyptosis_tile-art-batch-4_271
+    21300544: 225838_hyptosis_tile-art-batch-4_272
+    21300546: 225838_hyptosis_tile-art-batch-4_273
+    21300548: 225838_hyptosis_tile-art-batch-4_274
+    21300550: 225838_hyptosis_tile-art-batch-4_275
+    21300552: 225838_hyptosis_tile-art-batch-4_276
+    21300554: 225838_hyptosis_tile-art-batch-4_277
+    21300556: 225838_hyptosis_tile-art-batch-4_278
+    21300558: 225838_hyptosis_tile-art-batch-4_279
+    21300560: 225838_hyptosis_tile-art-batch-4_280
+    21300562: 225838_hyptosis_tile-art-batch-4_281
+    21300564: 225838_hyptosis_tile-art-batch-4_282
+    21300566: 225838_hyptosis_tile-art-batch-4_283
+    21300568: 225838_hyptosis_tile-art-batch-4_284
+    21300570: 225838_hyptosis_tile-art-batch-4_285
+    21300572: 225838_hyptosis_tile-art-batch-4_286
+    21300574: 225838_hyptosis_tile-art-batch-4_287
+    21300576: 225838_hyptosis_tile-art-batch-4_288
+    21300578: 225838_hyptosis_tile-art-batch-4_289
+    21300580: 225838_hyptosis_tile-art-batch-4_290
+    21300582: 225838_hyptosis_tile-art-batch-4_291
+    21300584: 225838_hyptosis_tile-art-batch-4_292
+    21300586: 225838_hyptosis_tile-art-batch-4_293
+    21300588: 225838_hyptosis_tile-art-batch-4_294
+    21300590: 225838_hyptosis_tile-art-batch-4_295
+    21300592: 225838_hyptosis_tile-art-batch-4_296
+    21300594: 225838_hyptosis_tile-art-batch-4_297
+    21300596: 225838_hyptosis_tile-art-batch-4_298
+    21300598: 225838_hyptosis_tile-art-batch-4_299
+    21300600: 225838_hyptosis_tile-art-batch-4_300
+    21300602: 225838_hyptosis_tile-art-batch-4_301
+    21300604: 225838_hyptosis_tile-art-batch-4_302
+    21300606: 225838_hyptosis_tile-art-batch-4_303
+    21300608: 225838_hyptosis_tile-art-batch-4_304
+    21300610: 225838_hyptosis_tile-art-batch-4_305
+    21300612: 225838_hyptosis_tile-art-batch-4_306
+    21300614: 225838_hyptosis_tile-art-batch-4_307
+    21300616: 225838_hyptosis_tile-art-batch-4_308
+    21300618: 225838_hyptosis_tile-art-batch-4_309
+    21300620: 225838_hyptosis_tile-art-batch-4_310
+    21300622: 225838_hyptosis_tile-art-batch-4_311
+    21300624: 225838_hyptosis_tile-art-batch-4_312
+    21300626: 225838_hyptosis_tile-art-batch-4_313
+    21300628: 225838_hyptosis_tile-art-batch-4_314
+    21300630: 225838_hyptosis_tile-art-batch-4_315
+    21300632: 225838_hyptosis_tile-art-batch-4_316
+    21300634: 225838_hyptosis_tile-art-batch-4_317
+    21300636: 225838_hyptosis_tile-art-batch-4_318
+    21300638: 225838_hyptosis_tile-art-batch-4_319
+    21300640: 225838_hyptosis_tile-art-batch-4_320
+    21300642: 225838_hyptosis_tile-art-batch-4_321
+    21300644: 225838_hyptosis_tile-art-batch-4_322
+    21300646: 225838_hyptosis_tile-art-batch-4_323
+    21300648: 225838_hyptosis_tile-art-batch-4_324
+    21300650: 225838_hyptosis_tile-art-batch-4_325
+    21300652: 225838_hyptosis_tile-art-batch-4_326
+    21300654: 225838_hyptosis_tile-art-batch-4_327
+    21300656: 225838_hyptosis_tile-art-batch-4_328
+    21300658: 225838_hyptosis_tile-art-batch-4_329
+    21300660: 225838_hyptosis_tile-art-batch-4_330
+    21300662: 225838_hyptosis_tile-art-batch-4_331
+    21300664: 225838_hyptosis_tile-art-batch-4_332
+    21300666: 225838_hyptosis_tile-art-batch-4_333
+    21300668: 225838_hyptosis_tile-art-batch-4_334
+    21300670: 225838_hyptosis_tile-art-batch-4_335
+    21300672: 225838_hyptosis_tile-art-batch-4_336
+    21300674: 225838_hyptosis_tile-art-batch-4_337
+    21300676: 225838_hyptosis_tile-art-batch-4_338
+    21300678: 225838_hyptosis_tile-art-batch-4_339
+    21300680: 225838_hyptosis_tile-art-batch-4_340
+    21300682: 225838_hyptosis_tile-art-batch-4_341
+    21300684: 225838_hyptosis_tile-art-batch-4_342
+    21300686: 225838_hyptosis_tile-art-batch-4_343
+    21300688: 225838_hyptosis_tile-art-batch-4_344
+    21300690: 225838_hyptosis_tile-art-batch-4_345
+    21300692: 225838_hyptosis_tile-art-batch-4_346
+    21300694: 225838_hyptosis_tile-art-batch-4_347
+    21300696: 225838_hyptosis_tile-art-batch-4_348
+    21300698: 225838_hyptosis_tile-art-batch-4_349
+    21300700: 225838_hyptosis_tile-art-batch-4_350
+    21300702: 225838_hyptosis_tile-art-batch-4_351
+    21300704: 225838_hyptosis_tile-art-batch-4_352
+    21300706: 225838_hyptosis_tile-art-batch-4_353
+    21300708: 225838_hyptosis_tile-art-batch-4_354
+    21300710: 225838_hyptosis_tile-art-batch-4_355
+    21300712: 225838_hyptosis_tile-art-batch-4_356
+    21300714: 225838_hyptosis_tile-art-batch-4_357
+    21300716: 225838_hyptosis_tile-art-batch-4_358
+    21300718: 225838_hyptosis_tile-art-batch-4_359
+    21300720: 225838_hyptosis_tile-art-batch-4_360
+    21300722: 225838_hyptosis_tile-art-batch-4_361
+    21300724: 225838_hyptosis_tile-art-batch-4_362
+    21300726: 225838_hyptosis_tile-art-batch-4_363
+    21300728: 225838_hyptosis_tile-art-batch-4_364
+    21300730: 225838_hyptosis_tile-art-batch-4_365
+    21300732: 225838_hyptosis_tile-art-batch-4_366
+    21300734: 225838_hyptosis_tile-art-batch-4_367
+    21300736: 225838_hyptosis_tile-art-batch-4_368
+    21300738: 225838_hyptosis_tile-art-batch-4_369
+    21300740: 225838_hyptosis_tile-art-batch-4_370
+    21300742: 225838_hyptosis_tile-art-batch-4_371
+    21300744: 225838_hyptosis_tile-art-batch-4_372
+    21300746: 225838_hyptosis_tile-art-batch-4_373
+    21300748: 225838_hyptosis_tile-art-batch-4_374
+    21300750: 225838_hyptosis_tile-art-batch-4_375
+    21300752: 225838_hyptosis_tile-art-batch-4_376
+    21300754: 225838_hyptosis_tile-art-batch-4_377
+    21300756: 225838_hyptosis_tile-art-batch-4_378
+    21300758: 225838_hyptosis_tile-art-batch-4_379
+    21300760: 225838_hyptosis_tile-art-batch-4_380
+    21300762: 225838_hyptosis_tile-art-batch-4_381
+    21300764: 225838_hyptosis_tile-art-batch-4_382
+    21300766: 225838_hyptosis_tile-art-batch-4_383
+    21300768: 225838_hyptosis_tile-art-batch-4_384
+    21300770: 225838_hyptosis_tile-art-batch-4_385
+    21300772: 225838_hyptosis_tile-art-batch-4_386
+    21300774: 225838_hyptosis_tile-art-batch-4_387
+    21300776: 225838_hyptosis_tile-art-batch-4_388
+    21300778: 225838_hyptosis_tile-art-batch-4_389
+    21300780: 225838_hyptosis_tile-art-batch-4_390
+    21300782: 225838_hyptosis_tile-art-batch-4_391
+    21300784: 225838_hyptosis_tile-art-batch-4_392
+    21300786: 225838_hyptosis_tile-art-batch-4_393
+    21300788: 225838_hyptosis_tile-art-batch-4_394
+    21300790: 225838_hyptosis_tile-art-batch-4_395
+    21300792: 225838_hyptosis_tile-art-batch-4_396
+    21300794: 225838_hyptosis_tile-art-batch-4_397
+    21300796: 225838_hyptosis_tile-art-batch-4_398
+    21300798: 225838_hyptosis_tile-art-batch-4_399
+    21300800: 225838_hyptosis_tile-art-batch-4_400
+    21300802: 225838_hyptosis_tile-art-batch-4_401
+    21300804: 225838_hyptosis_tile-art-batch-4_402
+    21300806: 225838_hyptosis_tile-art-batch-4_403
+    21300808: 225838_hyptosis_tile-art-batch-4_404
+    21300810: 225838_hyptosis_tile-art-batch-4_405
+    21300812: 225838_hyptosis_tile-art-batch-4_406
+    21300814: 225838_hyptosis_tile-art-batch-4_407
+    21300816: 225838_hyptosis_tile-art-batch-4_408
+    21300818: 225838_hyptosis_tile-art-batch-4_409
+    21300820: 225838_hyptosis_tile-art-batch-4_410
+    21300822: 225838_hyptosis_tile-art-batch-4_411
+    21300824: 225838_hyptosis_tile-art-batch-4_412
+    21300826: 225838_hyptosis_tile-art-batch-4_413
+    21300828: 225838_hyptosis_tile-art-batch-4_414
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 225838_hyptosis_tile-art-batch-4_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -10}
+        - {x: 16, y: -10}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -10}
+        - {x: -1, y: -10}
+        - {x: 1, y: -8}
+        - {x: 0, y: 4}
+        - {x: 1, y: -8}
+    - name: 225838_hyptosis_tile-art-batch-4_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -10}
+        - {x: 16, y: -10}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 2}
+        - {x: 16, y: 13}
+        - {x: 13, y: 16}
+        - {x: -3, y: 16}
+        - {x: -13, y: 2}
+        - {x: -13, y: -7}
+        - {x: -11, y: -10}
+        - {x: -5, y: -15}
+        - {x: 1, y: -15}
+        - {x: 5, y: -14}
+        - {x: 4, y: -7}
+        - {x: 10, y: -8}
+        - {x: 14, y: -8}
+    - name: 225838_hyptosis_tile-art-batch-4_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 9}
+        - {x: -15, y: 5}
+        - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: -6, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 6}
+        - {x: 11, y: 9}
+      - - {x: -8, y: 14}
+        - {x: -8, y: 16}
+        - {x: -13, y: 16}
+        - {x: -11, y: 13}
+    - name: 225838_hyptosis_tile-art-batch-4_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -16, y: 11}
+        - {x: -16, y: 5}
+        - {x: -14, y: 1}
+        - {x: 6, y: -4}
+        - {x: 13, y: -4}
+        - {x: 13, y: 4}
+        - {x: -3, y: 14}
+    - name: 225838_hyptosis_tile-art-batch-4_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -11}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -9}
+        - {x: -14, y: -9}
+    - name: 225838_hyptosis_tile-art-batch-4_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -9}
+        - {x: -16, y: -9}
+    - name: 225838_hyptosis_tile-art-batch-4_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -9}
+        - {x: -16, y: -9}
+    - name: 225838_hyptosis_tile-art-batch-4_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -7, y: -16}
+        - {x: -7, y: -11}
+        - {x: -9, y: -9}
+        - {x: -16, y: -9}
+    - name: 225838_hyptosis_tile-art-batch-4_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_14
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: 13}
+        - {x: -7, y: 7}
+        - {x: 0, y: 3}
+        - {x: 9, y: 3}
+        - {x: 16, y: 4}
+        - {x: 16, y: 13}
+        - {x: 4, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: 4}
+        - {x: 0, y: 4}
+        - {x: 3, y: 5}
+        - {x: 6, y: 8}
+        - {x: 6, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -11, y: 10}
+        - {x: -11, y: -10}
+        - {x: -7, y: -15}
+        - {x: -5, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: -3}
+        - {x: 8, y: 14}
+    - name: 225838_hyptosis_tile-art-batch-4_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 12}
+        - {x: -2, y: 7}
+        - {x: -2, y: -12}
+        - {x: 0, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+    - name: 225838_hyptosis_tile-art-batch-4_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -16}
+        - {x: -7, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: 225838_hyptosis_tile-art-batch-4_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_33
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -6}
+        - {x: -4, y: -15}
+        - {x: -4, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -1}
+        - {x: 14, y: -1}
+    - name: 225838_hyptosis_tile-art-batch-4_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 7}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 11, y: 7}
+    - name: 225838_hyptosis_tile-art-batch-4_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: 0, y: -16}
+        - {x: 0, y: -14}
+        - {x: -2, y: -6}
+        - {x: -15, y: 2}
+    - name: 225838_hyptosis_tile-art-batch-4_36
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 11}
+        - {x: 13, y: 13}
+    - name: 225838_hyptosis_tile-art-batch-4_37
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 12}
+        - {x: -16, y: 5}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 15, y: 12}
+    - name: 225838_hyptosis_tile-art-batch-4_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 12}
+        - {x: -15, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 8}
+        - {x: 4, y: 12}
+    - name: 225838_hyptosis_tile-art-batch-4_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -11}
+        - {x: -4, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -11}
+        - {x: 13, y: -9}
+        - {x: -2, y: -9}
+    - name: 225838_hyptosis_tile-art-batch-4_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_47
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+        - {x: 6, y: 15}
+    - name: 225838_hyptosis_tile-art-batch-4_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -16, y: -4}
+        - {x: -16, y: -16}
+        - {x: 3, y: -16}
+        - {x: 3, y: -12}
+        - {x: -2, y: -6}
+    - name: 225838_hyptosis_tile-art-batch-4_51
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_54
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -14, y: 13}
+        - {x: -5, y: 7}
+        - {x: 2, y: 7}
+        - {x: 6, y: 8}
+        - {x: 14, y: 13}
+        - {x: 14, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_55
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -7, y: 10}
+        - {x: -8, y: 2}
+        - {x: -8, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 15, y: 13}
+    - name: 225838_hyptosis_tile-art-batch-4_60
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 15, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -5}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_62
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -6, y: -16}
+        - {x: 5, y: -3}
+        - {x: 5, y: 10}
+        - {x: 4, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: 10}
+        - {x: 13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: -3, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: -13, y: -16}
+        - {x: 13, y: 10}
+        - {x: 13, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -8}
+        - {x: 16, y: -8}
+        - {x: 16, y: 9}
+        - {x: -16, y: 9}
+    - name: 225838_hyptosis_tile-art-batch-4_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -16}
+        - {x: 7, y: 16}
+        - {x: -7, y: 16}
+        - {x: -7, y: -16}
+    - name: 225838_hyptosis_tile-art-batch-4_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: -3, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -16, y: -2}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 15}
+        - {x: 14, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: 16, y: 2}
+        - {x: 15, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: 225838_hyptosis_tile-art-batch-4_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 1}
+        - {x: -3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: -1, y: 3}
+    - name: 225838_hyptosis_tile-art-batch-4_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -3, y: -16}
+        - {x: -3, y: 1}
+        - {x: -5, y: 3}
+        - {x: -16, y: 3}
+    - name: 225838_hyptosis_tile-art-batch-4_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: 15}
+        - {x: 15, y: -8}
+        - {x: 16, y: -8}
+        - {x: 16, y: 7}
+        - {x: 7, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 7}
+        - {x: -16, y: -8}
+        - {x: -15, y: -8}
+        - {x: 8, y: 15}
+        - {x: 8, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 14}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: -12, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 15}
+        - {x: 15, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 11}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: -3, y: 11}
+    - name: 225838_hyptosis_tile-art-batch-4_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 6}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 5}
+        - {x: 9, y: 6}
+    - name: 225838_hyptosis_tile-art-batch-4_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 11}
+    - name: 225838_hyptosis_tile-art-batch-4_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_102
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_103
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 15}
+        - {x: 3, y: 13}
+        - {x: 3, y: 2}
+        - {x: 5, y: 0}
+        - {x: 10, y: 0}
+        - {x: 15, y: 5}
+        - {x: 15, y: 13}
+        - {x: 13, y: 15}
+    - name: 225838_hyptosis_tile-art-batch-4_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 4}
+        - {x: -16, y: 2}
+        - {x: -16, y: -12}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -7}
+        - {x: 11, y: 4}
+    - name: 225838_hyptosis_tile-art-batch-4_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 6}
+        - {x: 1, y: 4}
+        - {x: 1, y: -7}
+        - {x: 3, y: -9}
+        - {x: 11, y: -9}
+        - {x: 13, y: -7}
+        - {x: 13, y: 4}
+        - {x: 11, y: 6}
+      - - {x: -13, y: 13}
+        - {x: -13, y: -1}
+        - {x: -1, y: -1}
+        - {x: 1, y: 1}
+        - {x: 1, y: 11}
+        - {x: -1, y: 13}
+    - name: 225838_hyptosis_tile-art-batch-4_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 2}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: 0, y: -8}
+        - {x: 0, y: 0}
+        - {x: -2, y: 2}
+      - - {x: 11, y: 12}
+        - {x: 1, y: 12}
+        - {x: 1, y: -11}
+        - {x: 2, y: -12}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 13, y: 11}
+    - name: 225838_hyptosis_tile-art-batch-4_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -14}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_116
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_118
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 0}
+        - {x: -1, y: 0}
+        - {x: -9, y: -4}
+        - {x: -14, y: -12}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: -2}
+    - name: 225838_hyptosis_tile-art-batch-4_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 11}
+        - {x: -15, y: -11}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 7}
+        - {x: 6, y: 16}
+      - - {x: 10, y: 16}
+        - {x: 10, y: 15}
+        - {x: 14, y: 12}
+        - {x: 16, y: 12}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 5}
+        - {x: -1, y: 3}
+        - {x: -1, y: -14}
+        - {x: 13, y: -14}
+        - {x: 13, y: 4}
+        - {x: 11, y: 5}
+      - - {x: -14, y: 13}
+        - {x: -14, y: -1}
+        - {x: -3, y: -1}
+        - {x: -3, y: 13}
+    - name: 225838_hyptosis_tile-art-batch-4_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 10}
+        - {x: -10, y: 8}
+        - {x: -10, y: -6}
+        - {x: -8, y: -8}
+        - {x: 2, y: -8}
+        - {x: 4, y: -6}
+        - {x: 4, y: 8}
+        - {x: 2, y: 10}
+    - name: 225838_hyptosis_tile-art-batch-4_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_134
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 11, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -10}
+        - {x: -15, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 10}
+        - {x: 6, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_139
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_142
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_143
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 4}
+        - {x: -2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 0, y: 6}
+    - name: 225838_hyptosis_tile-art-batch-4_144
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: -16, y: 6}
+    - name: 225838_hyptosis_tile-art-batch-4_145
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 2, y: -16}
+        - {x: 2, y: 4}
+        - {x: 0, y: 6}
+        - {x: -16, y: 6}
+    - name: 225838_hyptosis_tile-art-batch-4_146
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 3, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_147
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_148
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 13}
+        - {x: 5, y: 14}
+        - {x: -10, y: 14}
+        - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -14}
+        - {x: 16, y: -7}
+        - {x: 16, y: 9}
+    - name: 225838_hyptosis_tile-art-batch-4_150
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 13}
+        - {x: 5, y: 14}
+        - {x: -10, y: 14}
+        - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -14}
+        - {x: 16, y: -7}
+        - {x: 16, y: 9}
+    - name: 225838_hyptosis_tile-art-batch-4_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_153
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_155
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_156
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -16}
+        - {x: 2, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: 225838_hyptosis_tile-art-batch-4_158
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_159
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 3, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_160
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: -6, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -12}
+        - {x: -15, y: -14}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 10}
+        - {x: 14, y: 15}
+    - name: 225838_hyptosis_tile-art-batch-4_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -2, y: -4}
+        - {x: 0, y: -6}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: 0, y: -6}
+        - {x: 2, y: -4}
+        - {x: 2, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_167
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_168
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_169
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 3, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 13}
+        - {x: -16, y: 10}
+        - {x: -16, y: -13}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: 13, y: 13}
+    - name: 225838_hyptosis_tile-art-batch-4_171
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -9, y: -10}
+        - {x: -6, y: -11}
+        - {x: 8, y: -11}
+        - {x: 10, y: -9}
+        - {x: 10, y: 8}
+        - {x: 8, y: 10}
+    - name: 225838_hyptosis_tile-art-batch-4_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -10, y: -9}
+        - {x: -7, y: -11}
+        - {x: 6, y: -11}
+        - {x: 10, y: -10}
+        - {x: 10, y: 12}
+    - name: 225838_hyptosis_tile-art-batch-4_173
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -3}
+        - {x: -4, y: -7}
+        - {x: 8, y: -7}
+        - {x: 13, y: -6}
+        - {x: 13, y: 13}
+        - {x: 9, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_174
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 11}
+        - {x: -11, y: 11}
+        - {x: -11, y: -10}
+        - {x: 10, y: -10}
+        - {x: 10, y: 10}
+    - name: 225838_hyptosis_tile-art-batch-4_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 13}
+        - {x: 8, y: 14}
+        - {x: -13, y: -7}
+        - {x: -13, y: -9}
+        - {x: -9, y: -12}
+        - {x: -5, y: -12}
+        - {x: -1, y: -8}
+        - {x: 11, y: 6}
+    - name: 225838_hyptosis_tile-art-batch-4_176
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -14, y: 12}
+        - {x: -14, y: -6}
+        - {x: -9, y: -16}
+        - {x: 7, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 12}
+        - {x: 12, y: 14}
+    - name: 225838_hyptosis_tile-art-batch-4_177
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_178
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 6}
+        - {x: -14, y: 4}
+        - {x: -15, y: 1}
+        - {x: -15, y: -4}
+        - {x: -10, y: -6}
+        - {x: 16, y: -6}
+        - {x: 16, y: 3}
+        - {x: 2, y: 6}
+    - name: 225838_hyptosis_tile-art-batch-4_179
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 6}
+        - {x: -16, y: 4}
+        - {x: -16, y: -5}
+        - {x: -11, y: -6}
+        - {x: 4, y: -6}
+        - {x: 11, y: -3}
+        - {x: 11, y: 4}
+        - {x: 8, y: 6}
+    - name: 225838_hyptosis_tile-art-batch-4_180
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_181
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_182
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_184
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: 3}
+        - {x: -11, y: 0}
+        - {x: -9, y: 0}
+        - {x: -6, y: 3}
+        - {x: -6, y: 16}
+      - - {x: 6, y: 16}
+        - {x: 6, y: 3}
+        - {x: 9, y: 0}
+        - {x: 11, y: 0}
+        - {x: 14, y: 3}
+        - {x: 14, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -14}
+        - {x: 13, y: -14}
+        - {x: 13, y: 15}
+        - {x: 10, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 9}
+        - {x: 8, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -16}
+        - {x: 7, y: 16}
+        - {x: -7, y: 16}
+        - {x: -7, y: -16}
+    - name: 225838_hyptosis_tile-art-batch-4_189
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_191
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -14}
+        - {x: 11, y: -14}
+        - {x: 11, y: 7}
+        - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -11, y: -4}
+    - name: 225838_hyptosis_tile-art-batch-4_192
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_193
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_194
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_195
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_196
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_197
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_198
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_199
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -7}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 13, y: -7}
+        - {x: 13, y: 15}
+        - {x: 10, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_203
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_205
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_206
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 5}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 15, y: 5}
+    - name: 225838_hyptosis_tile-art-batch-4_207
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -5, y: 12}
+        - {x: -16, y: 4}
+        - {x: -16, y: 1}
+        - {x: -12, y: -5}
+        - {x: 13, y: -5}
+        - {x: 15, y: -3}
+        - {x: 15, y: 1}
+    - name: 225838_hyptosis_tile-art-batch-4_208
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 11}
+        - {x: -11, y: 11}
+        - {x: -12, y: 4}
+        - {x: -12, y: -15}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 2}
+        - {x: 11, y: 8}
+    - name: 225838_hyptosis_tile-art-batch-4_209
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 12}
+        - {x: -14, y: 10}
+        - {x: 15, y: 10}
+        - {x: 16, y: 11}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_210
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 11}
+        - {x: -12, y: 0}
+        - {x: -12, y: -12}
+        - {x: -7, y: -15}
+        - {x: 11, y: -15}
+        - {x: 13, y: -10}
+        - {x: 13, y: 1}
+        - {x: 9, y: 11}
+    - name: 225838_hyptosis_tile-art-batch-4_211
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 16}
+        - {x: 1, y: 14}
+        - {x: 8, y: 8}
+        - {x: 14, y: 8}
+        - {x: 16, y: 10}
+        - {x: 15, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_212
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -14, y: 13}
+        - {x: 12, y: 1}
+        - {x: 16, y: 1}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_213
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 1}
+        - {x: 7, y: 1}
+        - {x: 16, y: 5}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_215
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_216
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_217
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 4}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_218
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 3}
+        - {x: 11, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_219
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_220
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_221
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_222
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -16, y: 2}
+        - {x: -16, y: -2}
+        - {x: -14, y: -7}
+        - {x: 15, y: -7}
+        - {x: 15, y: -1}
+        - {x: 2, y: 10}
+    - name: 225838_hyptosis_tile-art-batch-4_223
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 12}
+        - {x: -14, y: 6}
+        - {x: -14, y: 0}
+        - {x: -8, y: -5}
+        - {x: 16, y: -5}
+        - {x: 16, y: 3}
+        - {x: 9, y: 12}
+    - name: 225838_hyptosis_tile-art-batch-4_224
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: -7, y: -14}
+        - {x: 10, y: -14}
+        - {x: 12, y: -11}
+        - {x: 12, y: -5}
+        - {x: 11, y: 0}
+    - name: 225838_hyptosis_tile-art-batch-4_225
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -12}
+        - {x: 0, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: 1, y: -2}
+        - {x: -4, y: -3}
+    - name: 225838_hyptosis_tile-art-batch-4_226
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -2}
+        - {x: -16, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: -5}
+        - {x: 9, y: -2}
+    - name: 225838_hyptosis_tile-art-batch-4_227
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 7}
+        - {x: -16, y: -5}
+        - {x: -5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: 3, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_228
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -1, y: 13}
+        - {x: -1, y: -2}
+        - {x: 7, y: -9}
+        - {x: 16, y: -9}
+        - {x: 16, y: 7}
+        - {x: 11, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_229
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: -5, y: -6}
+        - {x: -7, y: -1}
+        - {x: -10, y: 2}
+    - name: 225838_hyptosis_tile-art-batch-4_230
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_231
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_232
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_233
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_234
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -2}
+        - {x: 13, y: -2}
+        - {x: 13, y: 16}
+        - {x: -9, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_235
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -11}
+        - {x: -11, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_236
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_237
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -12}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_239
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_240
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_241
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_243
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_244
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 12}
+        - {x: -13, y: -10}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 13, y: -10}
+        - {x: 13, y: 12}
+        - {x: 11, y: 14}
+    - name: 225838_hyptosis_tile-art-batch-4_245
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_246
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: -7, y: -14}
+        - {x: 10, y: -14}
+        - {x: 12, y: -11}
+        - {x: 12, y: -5}
+        - {x: 11, y: 0}
+    - name: 225838_hyptosis_tile-art-batch-4_247
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -1}
+        - {x: -10, y: -3}
+        - {x: -11, y: -8}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: -12}
+        - {x: 4, y: -1}
+    - name: 225838_hyptosis_tile-art-batch-4_248
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -11, y: -2}
+        - {x: -11, y: -13}
+        - {x: -6, y: -15}
+        - {x: 12, y: -15}
+        - {x: 16, y: -10}
+        - {x: 16, y: 7}
+        - {x: 11, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_249
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: 6, y: 13}
+        - {x: 11, y: 9}
+        - {x: 16, y: 9}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_250
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 3}
+        - {x: 4, y: 3}
+        - {x: 11, y: 4}
+        - {x: 14, y: 14}
+        - {x: 14, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_251
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -13, y: 11}
+        - {x: -13, y: -7}
+        - {x: -6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 7, y: 12}
+    - name: 225838_hyptosis_tile-art-batch-4_252
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 3}
+    - name: 225838_hyptosis_tile-art-batch-4_253
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 5}
+        - {x: 1, y: 8}
+        - {x: -11, y: 8}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -15}
+        - {x: 3, y: -8}
+        - {x: 4, y: -1}
+    - name: 225838_hyptosis_tile-art-batch-4_254
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_255
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_256
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_257
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_258
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 7, y: -16}
+        - {x: 16, y: -2}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_259
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_260
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_261
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_262
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: -16, y: -13}
+        - {x: -16, y: -16}
+        - {x: -6, y: -16}
+        - {x: 16, y: 6}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_263
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: 2, y: 16}
+        - {x: -16, y: 12}
+    - name: 225838_hyptosis_tile-art-batch-4_264
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 0}
+        - {x: -1, y: 10}
+    - name: 225838_hyptosis_tile-art-batch-4_265
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -3}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 4, y: 10}
+    - name: 225838_hyptosis_tile-art-batch-4_266
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: 7}
+        - {x: -6, y: 5}
+        - {x: 10, y: 5}
+        - {x: 12, y: 7}
+        - {x: 12, y: 12}
+        - {x: 11, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_267
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -11, y: -9}
+        - {x: 12, y: -9}
+        - {x: 12, y: 9}
+        - {x: 9, y: 12}
+    - name: 225838_hyptosis_tile-art-batch-4_268
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 2}
+        - {x: -7, y: -1}
+        - {x: 7, y: -1}
+        - {x: 10, y: 2}
+        - {x: 10, y: 13}
+        - {x: 9, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_269
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -13}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_270
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_271
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -10}
+        - {x: -14, y: -13}
+        - {x: -12, y: -14}
+        - {x: 5, y: -14}
+        - {x: 13, y: 1}
+        - {x: 13, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_272
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_273
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_274
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_275
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_276
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 7}
+        - {x: 1, y: -4}
+        - {x: 2, y: -9}
+        - {x: 10, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: 15}
+        - {x: 12, y: 15}
+        - {x: 6, y: 14}
+    - name: 225838_hyptosis_tile-art-batch-4_277
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 15}
+        - {x: -16, y: -14}
+        - {x: -9, y: -14}
+        - {x: -2, y: -8}
+        - {x: -2, y: 8}
+        - {x: -9, y: 15}
+    - name: 225838_hyptosis_tile-art-batch-4_278
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -16, y: -4}
+        - {x: -16, y: -16}
+        - {x: 1, y: -16}
+        - {x: 1, y: -7}
+        - {x: -2, y: -1}
+      - - {x: 7, y: -13}
+        - {x: 7, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -8}
+        - {x: 12, y: -8}
+    - name: 225838_hyptosis_tile-art-batch-4_279
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -9, y: -16}
+        - {x: -9, y: -12}
+        - {x: -13, y: -8}
+        - {x: -16, y: -8}
+    - name: 225838_hyptosis_tile-art-batch-4_280
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 7}
+        - {x: -15, y: 7}
+        - {x: -7, y: 15}
+        - {x: -7, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_281
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 6}
+        - {x: -9, y: 5}
+        - {x: -14, y: -1}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: -1}
+        - {x: 9, y: 5}
+        - {x: 6, y: 6}
+    - name: 225838_hyptosis_tile-art-batch-4_282
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_283
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_284
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 1}
+        - {x: 0, y: -7}
+        - {x: 4, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: 0}
+        - {x: 10, y: 3}
+        - {x: 2, y: 3}
+      - - {x: -3, y: 13}
+        - {x: -10, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 5}
+        - {x: -14, y: -9}
+        - {x: -11, y: -12}
+        - {x: -5, y: -12}
+        - {x: -2, y: -11}
+        - {x: 0, y: -1}
+        - {x: 0, y: 10}
+    - name: 225838_hyptosis_tile-art-batch-4_285
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -9}
+        - {x: 0, y: -9}
+        - {x: 2, y: -8}
+        - {x: 14, y: 0}
+        - {x: 14, y: 14}
+        - {x: -6, y: 14}
+        - {x: -13, y: 12}
+    - name: 225838_hyptosis_tile-art-batch-4_286
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 10}
+        - {x: 9, y: 12}
+    - name: 225838_hyptosis_tile-art-batch-4_287
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: 15}
+    - name: 225838_hyptosis_tile-art-batch-4_288
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -8, y: 9}
+        - {x: -8, y: -5}
+        - {x: -5, y: -11}
+        - {x: -3, y: -14}
+        - {x: 9, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+        - {x: 6, y: 15}
+    - name: 225838_hyptosis_tile-art-batch-4_289
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 15}
+        - {x: 0, y: 15}
+        - {x: -16, y: 13}
+        - {x: -16, y: -13}
+        - {x: -3, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: 4}
+        - {x: 6, y: 13}
+    - name: 225838_hyptosis_tile-art-batch-4_290
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_291
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_292
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_293
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_294
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: 10}
+        - {x: -10, y: 7}
+        - {x: -4, y: 1}
+        - {x: 2, y: 1}
+        - {x: 5, y: 3}
+        - {x: -1, y: -3}
+        - {x: -2, y: -11}
+        - {x: -2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_295
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: -10}
+        - {x: 2, y: 7}
+        - {x: -6, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_296
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -2}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -11, y: -12}
+        - {x: -7, y: -12}
+        - {x: 16, y: -9}
+        - {x: 16, y: 0}
+        - {x: -9, y: 0}
+    - name: 225838_hyptosis_tile-art-batch-4_297
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -14}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_298
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_299
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_300
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -4, y: -8}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 8, y: 11}
+    - name: 225838_hyptosis_tile-art-batch-4_301
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 6}
+        - {x: -13, y: -14}
+        - {x: 2, y: -14}
+        - {x: 2, y: 3}
+        - {x: -1, y: 6}
+      - - {x: 5, y: 14}
+        - {x: 3, y: 12}
+        - {x: 3, y: 2}
+        - {x: 6, y: -1}
+        - {x: 13, y: -1}
+        - {x: 15, y: 1}
+        - {x: 15, y: 11}
+        - {x: 12, y: 14}
+    - name: 225838_hyptosis_tile-art-batch-4_302
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 1}
+        - {x: 3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: 5, y: 3}
+    - name: 225838_hyptosis_tile-art-batch-4_303
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 3, y: -16}
+        - {x: 3, y: 1}
+        - {x: 1, y: 3}
+        - {x: -16, y: 3}
+    - name: 225838_hyptosis_tile-art-batch-4_304
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 1}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_305
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_306
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_307
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_308
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_309
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_310
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -9, y: 13}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_311
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 13, y: -1}
+        - {x: 13, y: 6}
+    - name: 225838_hyptosis_tile-art-batch-4_312
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: -8, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_313
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 6}
+        - {x: 6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -13}
+        - {x: -13, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_314
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+        - {x: 3, y: 14}
+    - name: 225838_hyptosis_tile-art-batch-4_315
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 14}
+        - {x: -8, y: 14}
+        - {x: -16, y: 12}
+    - name: 225838_hyptosis_tile-art-batch-4_316
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_317
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 15}
+        - {x: 15, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_318
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_319
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 14}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_320
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_321
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_322
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_323
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_324
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: 7, y: 15}
+        - {x: 15, y: 7}
+        - {x: 16, y: 7}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_325
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -9, y: -1}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_326
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 10}
+        - {x: 7, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -15}
+    - name: 225838_hyptosis_tile-art-batch-4_327
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -9, y: -10}
+        - {x: -6, y: -11}
+        - {x: 8, y: -11}
+        - {x: 10, y: -9}
+        - {x: 10, y: 8}
+        - {x: 8, y: 10}
+    - name: 225838_hyptosis_tile-art-batch-4_328
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7}
+        - {x: -10, y: 0}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: -4, y: 13}
+    - name: 225838_hyptosis_tile-art-batch-4_329
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -15}
+        - {x: 11, y: 7}
+        - {x: 8, y: 13}
+    - name: 225838_hyptosis_tile-art-batch-4_330
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 13}
+        - {x: 8, y: 14}
+        - {x: -13, y: -7}
+        - {x: -13, y: -9}
+        - {x: -9, y: -12}
+        - {x: -5, y: -12}
+        - {x: -1, y: -8}
+        - {x: 11, y: 6}
+    - name: 225838_hyptosis_tile-art-batch-4_331
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -14, y: 12}
+        - {x: -14, y: -6}
+        - {x: -9, y: -16}
+        - {x: 7, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 12}
+        - {x: 12, y: 14}
+    - name: 225838_hyptosis_tile-art-batch-4_332
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_333
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_334
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_335
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_336
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -14}
+        - {x: 13, y: -14}
+        - {x: 13, y: 15}
+        - {x: 10, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_337
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 1}
+        - {x: -16, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: -13}
+        - {x: -12, y: 1}
+    - name: 225838_hyptosis_tile-art-batch-4_338
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -15}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_339
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -14}
+        - {x: 10, y: -11}
+        - {x: 10, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_340
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -14}
+        - {x: 11, y: -14}
+        - {x: 11, y: 7}
+        - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -11, y: -4}
+    - name: 225838_hyptosis_tile-art-batch-4_341
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_342
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_343
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_344
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_345
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_346
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_347
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+        - {x: 13, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_348
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: -3, y: 13}
+    - name: 225838_hyptosis_tile-art-batch-4_349
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -10, y: -16}
+        - {x: -10, y: -15}
+        - {x: -12, y: -12}
+        - {x: -16, y: -11}
+    - name: 225838_hyptosis_tile-art-batch-4_350
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_351
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_352
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_353
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_354
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_355
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -10}
+        - {x: 11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -6}
+        - {x: 15, y: -6}
+    - name: 225838_hyptosis_tile-art-batch-4_356
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -5}
+        - {x: -16, y: -16}
+        - {x: -8, y: -16}
+        - {x: -8, y: -7}
+        - {x: -11, y: -4}
+        - {x: -15, y: -4}
+    - name: 225838_hyptosis_tile-art-batch-4_357
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_358
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_359
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_360
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -5}
+        - {x: 7, y: 3}
+    - name: 225838_hyptosis_tile-art-batch-4_361
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -6, y: -16}
+        - {x: -6, y: -15}
+        - {x: -11, y: -9}
+        - {x: -16, y: -7}
+    - name: 225838_hyptosis_tile-art-batch-4_362
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_363
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_364
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_365
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_366
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_367
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_368
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_369
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_370
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -10}
+        - {x: -16, y: -10}
+    - name: 225838_hyptosis_tile-art-batch-4_371
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 1}
+        - {x: -4, y: -3}
+        - {x: -6, y: -11}
+        - {x: -6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: 7, y: 3}
+    - name: 225838_hyptosis_tile-art-batch-4_372
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: 6, y: -16}
+        - {x: 5, y: -5}
+        - {x: -1, y: 1}
+        - {x: -7, y: 3}
+    - name: 225838_hyptosis_tile-art-batch-4_373
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -10}
+        - {x: 11, y: 3}
+        - {x: -4, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_374
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_375
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_376
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_377
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_378
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: 10, y: 3}
+        - {x: 10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_379
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_380
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_381
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_382
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_383
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_384
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_385
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_386
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_387
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_388
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_389
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_390
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_391
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_392
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_393
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -13}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_394
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 14}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 14}
+    - name: 225838_hyptosis_tile-art-batch-4_395
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -15}
+        - {x: 9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -10}
+        - {x: 12, y: -11}
+    - name: 225838_hyptosis_tile-art-batch-4_396
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: 3, y: 13}
+        - {x: -14, y: 1}
+        - {x: -16, y: -6}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_397
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_398
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_399
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_400
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_401
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_402
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_403
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_404
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_405
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -11}
+        - {x: 5, y: -15}
+        - {x: 5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -8}
+        - {x: 15, y: -8}
+    - name: 225838_hyptosis_tile-art-batch-4_406
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 7}
+        - {x: -10, y: -4}
+    - name: 225838_hyptosis_tile-art-batch-4_407
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 7}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: 3, y: 16}
+        - {x: -9, y: 14}
+    - name: 225838_hyptosis_tile-art-batch-4_408
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_409
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_410
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_411
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_412
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_413
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 3, y: 16}
+    - name: 225838_hyptosis_tile-art-batch-4_414
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
