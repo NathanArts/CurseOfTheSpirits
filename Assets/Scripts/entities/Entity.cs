@@ -19,7 +19,41 @@ namespace entities {
 	    protected Attribute Lust;
 	    protected Body Body;
 
-	    public Entity(string name) {
+        public string name {
+            get { return this.Name; }
+        }
+        public Attribute strength {
+            get { return Strength; }
+        }
+        public Attribute dexterity {
+            get { return Dexterity; }
+        }
+        public Attribute endurance {
+            get { return Endurance; }
+        }
+        public Attribute intelligence {
+            get { return Intelligence; }
+        }
+        public Attribute will {
+            get { return Will; }
+        }
+        public Attribute charisma {
+            get { return Charisma; }
+        }
+        public Attribute libido {
+            get { return Libido; }
+        }
+        public Attribute sensitivity {
+            get { return Sensitivity; }
+        }
+        public Attribute lust {
+            get { return Lust; }
+        }
+        public Body body {
+            get { return Body; }
+        }
+
+        public Entity(string name) {
 	        this.Name = name;
 	        Strength = new Attribute(0, 100);
 	        Dexterity = new Attribute(0, 100);
@@ -31,50 +65,6 @@ namespace entities {
 	        Sensitivity = new Attribute(0, 100);
 	        Lust = new Attribute(0, 100);
 	        Body = new Body();
-	    }
-
-	    public string name {
-	        get { return this.Name; }
-	    }
-
-	    public Attribute strength {
-	        get { return Strength; }
-	    }
-
-	    public Attribute dexterity {
-	        get { return Dexterity; }
-	    }
-
-	    public Attribute endurance {
-	        get { return Endurance; }
-	    }
-
-	    public Attribute intelligence {
-	        get { return Intelligence; }
-	    }
-
-	    public Attribute will {
-	        get { return Will; }
-	    }
-
-	    public Attribute charisma {
-	        get { return Charisma; }
-	    }
-
-	    public Attribute libido {
-	        get { return Libido; }
-	    }
-
-	    public Attribute sensitivity {
-	        get { return Sensitivity; }
-	    }
-
-	    public Attribute lust {
-	        get { return Lust; }
-	    }
-
-	    public Body body {
-	        get { return Body; }
 	    }
 
 	    public override bool Equals(System.Object obj) {
