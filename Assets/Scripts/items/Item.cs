@@ -57,7 +57,6 @@ namespace items {
 	        if (Value != item.Value) return false;
 	        if (MaxSlotCount != item.MaxSlotCount) return false;
 	        return Name.Equals(item.Name);
-
 	    }
 
 	    public override int GetHashCode() {
